@@ -22,13 +22,13 @@ AITax NZ is a comprehensive AI-powered tax management platform designed specific
 
 ### Professional Modern UI Design
 
-![Login Interface](file:///C:/Users/spark/.gemini/antigravity/brain/f8e3c2c2-7a32-4aa2-b109-c64382dd28fc/styled_login_page_1768703803267.png)
+![Login Interface](./docs/images/login_preview.png)
 
 *Modern login interface with New Zealand-themed colors (teal-blue gradient), supporting quick access to all three tiers*
 
 ### Intelligent Financial Dashboard
 
-![Financial Dashboard](file:///C:/Users/spark/.gemini/antigravity/brain/f8e3c2c2-7a32-4aa2-b109-c64382dd28fc/styled_dashboard_page_1768703830784.png)
+![Financial Dashboard](./docs/images/dashboard_preview.png)
 
 *Real-time financial overview with visualized analysis of revenue, expenses, GST, and profit. Interactive charts help you quickly understand your financial health*
 
